@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Python, HTML and Php
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me Jeldo#9587
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">My youtube</a>
+- 💻 Follow me <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">here</a>
 <!---
 J3ldo/J3ldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
