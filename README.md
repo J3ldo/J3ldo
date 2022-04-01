@@ -19,7 +19,7 @@ vbs.msgbox(f"I am {me}!", icon=vbs.itemattributes().msgbox().icons().information
 [Share files locally](https://github.com/J3ldo/Share-Files-Locally) Want to share files but you aren't able to? Host this on any network to share and upload files between devices
 
 ## Collaboration and Commissions
-I accept commissions.
+I accept commissions for python.  
 I am also looking to collaborate on python. So feel free to ask.
 
 ## Contact information:  
