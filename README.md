@@ -17,3 +17,4 @@ import vbspython as vbs
 me = vbs.system('whoami').strip("\n")  
 vbs.msgbox(f"I am {me}!", icon=vbs.itemattributes().msgbox().icons().information())  
 ```
+![](me.png)
