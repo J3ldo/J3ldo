@@ -9,8 +9,17 @@ vbs.msgbox(f"I am {me}!", icon=vbs.itemattributes().msgbox().icons().information
 ![](me.png)
 
 # Repositories
-##      Python
+## Python
+[Limited Sniper](https://github.com/J3ldo/LimitSniper) Gets the price of limiteds on the roblox catalog.  
+[vbspython](https://github.com/J3ldo/vbspython) A python module to interact with vbscript (Only works for windows operating systems)  
+[Wifi password scraper](https://github.com/J3ldo/Wifi-Password-Scraper) Scrapes all registerd passwords of a device with windows on it
 
+## HTML/PHP
+[Share files locally](https://github.com/J3ldo/Share-Files-Locally)  
+
+
+# Contact information: 
+Discord: Jeldo#9587  
 
 <!---
 - 👋 Hi, I’m J3ldo
