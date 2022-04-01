@@ -10,15 +10,19 @@ vbs.msgbox(f"I am {me}!", icon=vbs.itemattributes().msgbox().icons().information
 
 # Repositories
 ## Python
-[Limited Sniper](https://github.com/J3ldo/LimitSniper) Gets the price of limiteds on the roblox catalog.  
-[vbspython](https://github.com/J3ldo/vbspython) A python module to interact with vbscript (Only works for windows operating systems)  
+<!---[Limited Sniper](https://github.com/J3ldo/LimitSniper) Gets the price of limiteds on the roblox catalog.  --->
+[Sus-Bot](https://discordbotlist.com/bots/sus-bot) One of my biggest projects. Sus bot is a bot for discord thats closed source and in 34 server atm  
+[Vbspython](https://github.com/J3ldo/vbspython) A python module to interact with vbscript (Only works for windows operating systems)  
 [Wifi password scraper](https://github.com/J3ldo/Wifi-Password-Scraper) Scrapes all registerd passwords of a device with windows on it
 
 ## HTML/PHP
-[Share files locally](https://github.com/J3ldo/Share-Files-Locally)  
+[Share files locally](https://github.com/J3ldo/Share-Files-Locally) Want to share files but you aren't able to? Host this on any network to share and upload files between devices
 
+## Collaboration and Commissions
+I accept commissions.
+I am also looking to collaborate on python. So feel free to ask.
 
-# Contact information: 
+## Contact information:  
 Discord: Jeldo#9587  
 
 <!---
