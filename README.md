@@ -14,8 +14,9 @@ vbs.msgbox(f"I am {me}!", icon=vbs.itemattributes().msgbox().icons().information
 [Sus-Bot](https://discordbotlist.com/bots/sus-bot) One of my biggest projects. Sus bot is a bot for discord thats closed source and in 34 server atm  
 [Vbspython](https://github.com/J3ldo/vbspython) A python module to interact with vbscript (Only works for windows operating systems)  
 [Wifi password scraper](https://github.com/J3ldo/Wifi-Password-Scraper) Scrapes all registerd passwords of a device with windows on it  
-[Video downloader](https://github.com/J3ldo/VideoDownloader) Will download youtube videos fast and for free!
-
+[Video downloader](https://github.com/J3ldo/VideoDownloader) Will download youtube videos fast and for free!  
+[Prime Numbers](https://github.com/J3ldo/PrimeNumbers) A program that finds an amount of prime numbers given. Will format into a list and give the output. Also has a list of 100,000 prime numbers  
+ 
 ## HTML/PHP
 [Share files locally](https://github.com/J3ldo/Share-Files-Locally) Want to share files but you aren't able to? Host this on any network to share and upload files between devices
 
