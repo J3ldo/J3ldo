@@ -26,6 +26,7 @@ I am also looking to collaborate on python. So feel free to ask.
 
 ## Contact information:  
 Discord: Jeldo#9587  
+Mail: <a href="mailto:jeldojelle@gmail.com">jeldojelle@gmail.com</a>
 
 <!---
 - 👋 Hi, I’m J3ldo
