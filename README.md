@@ -33,6 +33,8 @@ I am also looking to collaborate on python. So feel free to ask.
 Discord: Jeldo#9587  
 Mail: <a href="mailto:jeldojelle@gmail.com">jeldojelle@gmail.com</a>
 
+![](https://komarev.com/ghpvc/?username=J3ldo&label=Views+on+my+profile+so+far:+)
+
 <!---
 - 👋 Hi, I’m J3ldo
 - 👀 I’m interested in programming
