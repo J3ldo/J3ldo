@@ -25,6 +25,12 @@ vbs.msgbox(f"I am {me}!", icon=vbs.itemattributes().msgbox().icons().information
 ## HTML/PHP
 [Share files locally](https://github.com/J3ldo/Share-Files-Locally) Want to share files but you aren't able to? Host this on any network to share and upload files between devices
 
+## What i want to make
+* Tools for flask such as: ratelimiting, and csrf protection
+* Learn C# and unity
+* Learn javascript
+* Not being mentally ill
+
 ## Collaboration and Commissions
 I accept commissions for python and python + html.  
 I am also looking to collaborate on python. So feel free to ask.
