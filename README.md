@@ -11,7 +11,7 @@ vbs.msgbox(f"I am {me}!", icon=vbs.itemattributes().msgbox().icons().information
 # Repositories
 ## Python
 <!--<a href="j3ldo.ddns.net">My own site.</a>-->
-[Limited Sniper](https://github.com/J3ldo/LimitSniper) Gets the price of limiteds on the roblox catalog.  
+[Limited Sniper](https://github.com/J3ldo/LimitedSniper) Gets the price of limiteds on the roblox catalog.  
 [Folder Zipper](https://github.com/J3ldo/Folder-Zipper) Zips directories into one file. And can unzip them.  
 [Config Reader](https://github.com/J3ldo/ConfigReader) Is a program that can read .ini files.  
 [Vbspython](https://github.com/J3ldo/vbspython) A python module to interact with vbscript (Only works for windows operating systems)  
