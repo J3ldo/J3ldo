@@ -1,16 +1,11 @@
-# 👋 Hi, I’m J3ldo  
+# 👋 Hello, I am J3ldo  
+## About me
+I am a 14 year old hobbyist programmer from the Netherlands. I mostly program in Python, HTML, and Javascript but i am also learning C++ and Java. I started out 2 years ago with vbscript and learned that.   After that i decided to program in python and now mostly make my projects in that. 
+Some of my favorite projects are [Limited Sniper](https://github.com/J3ldo/LimitedSniper) which is a limited sniper for roblox and Sus-Bot a discord bot which has sadly died.   
+If you'd like to contact me you can message me on discord my username is Jeldo#9578.
 
-```python  
-import vbspython as vbs  
-
-me = vbs.system('whoami').strip("\n")  
-vbs.msgbox(f"I am {me}!", icon=vbs.itemattributes().msgbox().icons().information())  
-```
-![](me.png)
-
-# Repositories
-## Python
-<!--<a href="j3ldo.ddns.net">My own site.</a>-->
+## Repositories
+### Python
 [Limited Sniper](https://github.com/J3ldo/LimitedSniper) Gets the price of limiteds on the roblox catalog.  
 [Folder Zipper](https://github.com/J3ldo/Folder-Zipper) Zips directories into one file. And can unzip them.  
 [Config Reader](https://github.com/J3ldo/ConfigReader) Is a program that can read .ini files.  
@@ -18,24 +13,20 @@ vbs.msgbox(f"I am {me}!", icon=vbs.itemattributes().msgbox().icons().information
 [Site Stats](https://github.com/J3ldo/SiteStats) Enables the possibility for you to see stats for your site!  
 [Prime Numbers](https://github.com/J3ldo/PrimeNumbers) A program that finds an amount of prime numbers given. Will format into a list and give the output. Also has a list of 100,000 prime numbers  
 
-<!--[Wifi password scraper](https://github.com/J3ldo/Wifi-Password-Scraper) Scrapes all registerd passwords of a device with windows on it  
-[Video downloader](https://github.com/J3ldo/VideoDownloader) Will download youtube videos fast and for free! -->
-<!-- [Sus-Bot](https://discordbotlist.com/bots/sus-bot) One of my biggest projects. Sus bot is a bot for discord thats closed source and in 34 server atm   -->
- 
-## HTML/PHP
+### HTML/PHP
 [Share files locally](https://github.com/J3ldo/Share-Files-Locally) Want to share files but you aren't able to? Host this on any network to share and upload files between devices
 
-## What i want to make
-* Tools for flask such as: ratelimiting, and csrf protection
-* Learn C# and unity
-* Learn javascript
-* Not being mentally ill
+## Currently working on
+* Learning C++
+* Learning OpenGL
+* Making a minecraft Java mod
+* Making GUI's
 
 ## Collaboration and Commissions
 I accept commissions for python and python + html.  
 I am also looking to collaborate on python. So feel free to ask.
 
-## Contact information:  
+## Contact:  
 Discord: Jeldo#9587  
 Mail: <a href="mailto:jeldojelle@gmail.com">jeldojelle@gmail.com</a>
 
