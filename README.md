@@ -29,7 +29,7 @@ I am also looking to collaborate on python. So feel free to ask.
 
 ## Contact:  
 Discord: Jeldo#9587  
-Mail: <a href="mailto:jeldojelle@gmail.com">jeldojelle@gmail.com</a>
+Mail: <a href="mailto:J3ldo2@gmail.com">J3ldo2@gmail.com</a> (Probably wont respond)
 
 ![](https://komarev.com/ghpvc/?username=J3ldo&label=Views+on+my+profile+so+far:+)
 
