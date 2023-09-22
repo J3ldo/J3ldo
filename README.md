@@ -1,6 +1,6 @@
 # 👋 Hello, I am J3ldo  
 ## About me
-I am a 14 year old hobbyist programmer from the Netherlands. I mostly program in Python, HTML, and Javascript but i am also learning C++ and Java. I started out 2 years ago with vbscript and learned that.   After that i decided to program in python and now mostly make my projects in that. 
+I am a 15 year old hobbyist programmer from the Netherlands. I mostly program in Python, HTML, and Javascript but i am also learning C++ and Java. I started out 2 years ago with vbscript and learned that.   After that i decided to program in python and now mostly make my projects in that. 
 Some of my favorite projects are [Limited Sniper](https://github.com/J3ldo/LimitedSniper) which is a limited sniper for roblox and Sus-Bot a discord bot which has sadly died.   
 If you'd like to contact me you can message me on discord my username is Jeldo#9578.
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=J3ldo&show_icons=true&theme=dark)
